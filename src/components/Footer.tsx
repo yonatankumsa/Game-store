@@ -1,16 +1,14 @@
-import Github from './Github';
 
 function Footer() {
   return (
     <footer>
-      <Github username="nekusu" />
       <a
-        href="https://rawg.io/apidocs"
+        href="https://github.com/yonatankumsa"
         target="_blank"
         rel="noopener noreferrer"
         className="Button"
       >
-        RAWG API
+        Yonatan Kumsa
       </a>
     </footer>
   );
